@@ -1,8 +1,1 @@
-# co5b94893a9ac9f2972fcabce
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+website link: https://grand-concha-e85da7.netlify.app/
